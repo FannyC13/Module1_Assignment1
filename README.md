@@ -1,7 +1,6 @@
                                                         # Module1_Assignment1
 
-                                                        
-                                                       # **Project : My app**
+# **Project : My app**
 
 ## **_This project is to help people organize their travel, so there will be different pages:_**
 
